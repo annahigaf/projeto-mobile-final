@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFFE6"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/edtNomeTurma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textColorHint="#777777"
+        android:layout_marginTop="9dp"
+        android:hint="Nome da Turma" />
+
+    <EditText
+        android:id="@+id/edtTurnoTurma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textColorHint="#777777"
+        android:layout_marginTop="10dp"
+        android:hint="Turno (Manhã/Tarde)" />
+
+    <Button
+        android:id="@+id/btnSalvarTurma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#FFD400"
+        android:text="Salvar Turma" />
+
+    <ListView
+        android:id="@+id/listViewTurmas"
+        android:layout_width="wrap_content"
+        android:layout_height="461dp"
+        android:textColor="#000000"
+        android:textColorHint="#777777"
+        android:layout_marginTop="18dp" />
+</LinearLayout>

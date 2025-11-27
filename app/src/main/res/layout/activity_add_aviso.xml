@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/colorBackground"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/edtTituloAviso"
+        android:hint="Título do aviso"
+        android:textColor="@color/textPrimary"
+        android:background="@color/colorCard"
+        android:padding="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/edtDescricaoAviso"
+        android:hint="Descrição"
+        android:textColor="@color/textPrimary"
+        android:background="@color/colorCard"
+        android:minHeight="120dp"
+        android:gravity="top"
+        android:padding="12dp"
+        android:layout_marginTop="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnSalvarAviso"
+        android:text="Publicar Aviso"
+        android:textColor="@android:color/white"
+        android:background="#F57C00"
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

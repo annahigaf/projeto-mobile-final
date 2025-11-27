@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- 🎨 Paleta Principal -->
+        <color name="colorPrimary">#F57C00</color>       <!-- Laranja forte -->
+        <color name="colorPrimaryDark">#E65100</color>  <!-- Laranja queimado -->
+        <color name="colorAccent">#FFA726</color>
+        <color name="iconOrange">#FF9800</color> <!-- Laranja bonito e moderno -->
+
+        <!-- 🖤 Texto -->
+        <color name="textPrimary">#212121</color>       <!-- Preto -->
+        <color name="textSecondary">#757575</color>     <!-- Cinza médio -->
+        <color name="textLight">#FFFFFF</color>
+
+        <!-- 🧼 Fundos -->
+        <color name="colorBackground">#FAFAFA</color>   <!-- Branco gelo -->
+        <color name="colorCard">#FFFFFF</color>         <!-- Branco puro -->
+        <color name="dividerColor">#DDDDDD</color>
+
+        <!-- 🎯 Ícones -->
+        <color name="iconTint">#424242</color>          <!-- Cinza escuro -->
+</resources>

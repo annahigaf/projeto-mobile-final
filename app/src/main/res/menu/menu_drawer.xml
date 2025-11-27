@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Início"
+            android:icon="@drawable/ic_home" />
+
+        <item
+            android:id="@+id/nav_alunos"
+            android:title="Alunos"
+            android:icon="@drawable/ic_group" />
+
+        <item
+            android:id="@+id/nav_responsaveis"
+            android:title="Responsáveis"
+            android:icon="@drawable/ic_phone" />
+
+        <item
+            android:id="@+id/nav_turmas"
+            android:title="Turmas"
+            android:icon="@drawable/ic_class" />
+
+        <item
+            android:id="@+id/nav_escolas"
+            android:title="Escolas"
+            android:icon="@drawable/ic_school" />
+
+        <item
+            android:id="@+id/nav_condutores"
+            android:title="Condutores"
+            android:icon="@drawable/ic_bus" />
+
+        <item
+            android:id="@+id/nav_rotas"
+            android:title="Rotas"
+            android:icon="@drawable/ic_map" />
+
+        <item
+            android:id="@+id/nav_embarque"
+            android:title="Embarque / Desembarque"
+            android:icon="@drawable/ic_commute" />
+
+        <item
+            android:id="@+id/nav_integrantes"
+            android:title="Integrantes"
+            android:icon="@drawable/ic_info" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Sair"
+            android:icon="@drawable/ic_logout" />
+
+    </group>
+
+</menu>

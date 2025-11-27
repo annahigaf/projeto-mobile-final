@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/edtNomeEscola"
+        android:hint="Nome da Escola"
+        android:textColor="#000000"
+        android:textColorHint="#777777"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edtEnderecoEscola"
+        android:hint="Endereço"
+        android:layout_marginTop="8dp"
+        android:textColor="#000000"
+        android:textColorHint="#777777"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnSalvarEscola"
+        android:text="Salvar Escola"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#FFD400"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ListView
+        android:id="@+id/listViewEscolas"
+        android:layout_marginTop="16dp"
+        android:textColor="#000000"
+        android:textColorHint="#777777"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

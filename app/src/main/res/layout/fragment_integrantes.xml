@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@mipmap/ic_launcher_foreground"
+            android:contentDescription="Logo do App"
+            android:layout_marginBottom="16dp" />
+
+        <!-- 🔹 Título -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Integrantes do Projeto"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#0D1B2A"
+            android:layout_marginBottom="24dp" />
+
+        <!-- 🔹 Lista de integrantes -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• Anna Julia Higa  RA:2403569"
+            android:textColor="#212121"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• Leticia Macedo  RA:2403915"
+            android:textColor="#212121"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• Evelyn Merces  RA:2404227"
+            android:textColor="#212121"
+            android:textSize="16sp"
+            android:layout_marginBottom="16dp" />
+
+        <!-- 🔹 Professor e matéria -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Professor: Odair Gabriel da Silva"
+            android:textColor="#0D1B2A"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Disciplina: Desenvolvimento Mobile"
+            android:textColor="#424242"
+            android:textSize="16sp"
+            android:layout_marginBottom="24dp" />
+    </LinearLayout>
+</ScrollView>
