@@ -35,6 +35,21 @@ menu:
 - **Material Design**
 - **Activities + Intents**
 
+**Passo a passo para instalar e rodar**
+
+1. git clone https://github.com/SEU_USUARIO/SEU_REPO.git
+
+2️. Abrir no Android Studio
+
+3. File → Open → selecione a pasta do projeto
+
+Aguarde sincronizar o Gradle
+
+3️⃣ Executar
+
+Conecte um dispositivo físico ou configure um emulador
+
+Clique no botão ▶️ Run
 **🌐 Endpoints da API**
 
 O projeto não utiliza API externa, pois funciona 100% offline usando SQLite local.
