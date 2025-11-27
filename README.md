@@ -153,6 +153,7 @@ O mural só exibe o botão “+” para quem for administrador.
 **👩‍💻 Autores e Contato**
 
 Desenvolvido por:
+
 - Anna Julia Higa
   
 - Evelyn Mercês
@@ -160,6 +161,7 @@ Desenvolvido por:
 - Leticia Macedo 
 
 Contato: 
+
  -anna.farincho@aluno.faculdadeimpacta.com.br
 
 -evelyn.merces@aluno.faculdadeimpacta.com.br
