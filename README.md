@@ -37,7 +37,7 @@ menu:
 
 **Passo a passo para instalar e rodar**
 
-1. git clone https://github.com/SEU_USUARIO/SEU_REPO.git
+1. git clone (https://github.com/annahigaf/projeto-mobile-final.git)
 
 2️. Abrir no Android Studio
 
