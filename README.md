@@ -13,15 +13,18 @@ Exemplo:
 
 tela login:
 
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/17af85cd-975d-4555-9a98-f8f6b0748982" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/c68d5ed3-74b9-4a2c-b9d9-297b166198cb" />
+
 
 pagina home com mural:
 
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/8cf225a8-1a22-4ba2-86c4-3aab355d1dbd" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e5813b7-b13e-4623-b32d-5f643bcfb9d8" />
+
 
 menu:
 
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/3142509c-0883-4490-896c-aa307c93d96f" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/42b92f9b-8689-4a96-a5ef-fffc752d30d6" />
+
 
 **# 🛠 Tecnologias Utilizadas**
 
